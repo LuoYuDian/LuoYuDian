@@ -7,7 +7,10 @@
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;I+am+super+obsessed+with+programming!" />
 </p>
- 
+<br/>
+<!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=hellolyd2012&theme=github-compact&hide_border=true&area=true">
+<br/>
 <p align="center">
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
