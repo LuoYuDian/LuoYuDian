@@ -8,4 +8,4 @@
 
 ##### 存储库
 
-<button type="button"> <img src="[https://github.com/hellolyd2012/RemeoOS/blob/main/Docs/Img/Logo.png](https://github.com/hellolyd2012/RemeoOS/)" height ="90" width="480" /></button>
+<button type="button"> <img src="https://github.com/hellolyd2012/RemeoOS/blob/main/Docs/Img/Logo.png"(https://github.com/hellolyd2012/RemeoOS/) height ="90" width="480" /></button>
