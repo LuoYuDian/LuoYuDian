@@ -33,7 +33,7 @@
 
 <br/>
 <!-- https://github.com/tandpfun/skill-icons -->
-<img align="center" src="https://skillicons.dev/icons?i=unrealenginemd&theme="dark" />
+<img align="center" src="https://skillicons.dev/icons?i=unrealengine,md&theme="dark" />
 </p>
  
 <!-- https://github.com/badges/shields -->
